@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+section{
+    display: flex;
+    max-width: 1000px;
+    margin: 0 auto;
+    margin-top: 4rem;
+    align-items: center;
+    justify-content: space-between;
+}
+button img{
+    max-width: 40px;
+    
+}
